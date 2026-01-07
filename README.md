@@ -1,5 +1,6 @@
 # Analise de Populacao por Estado (IBGE)
 📊 Análise de População por Estado Brasileiro (IBGE)
+
 📌 Descrição do Projeto
 
 Este projeto tem como objetivo coletar dados públicos do IBGE, realizar tratamento, integração com dados complementares, análise exploratória e geração de visualizações sobre a população dos estados brasileiros.
